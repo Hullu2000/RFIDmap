@@ -1,0 +1,24 @@
+SQL 3 databases
+
+Users
+	usr (TEXT): pswd(hash) (64 bytes): email (TEXT): phone (TEXT) 
+
+Selling
+	book_name : usr : desc : price : location (coordinates)
+
+Buying
+	book_name : usr : desc : price : location (coordinates)
+
+//Ideas from now on //
+
+ForRent:
+
+
+Renting:
+
+
+Schools
+	Name: book list
+
+
+http://www.advsofteng.com/doc/cdcppdoc/realtimedemoqt.htm
